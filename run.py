@@ -1,10 +1,11 @@
-from helpers import draw_board, check_turn
+from helpers import draw_board, check_turn, check_for_win
 import os
 
 spots = {1: "1", 2: "2", 3: "3", 4: "4", 5: "5",
          6: "6", 7: "7", 8: "8", 9: "9"}
 
 playing = True
+complete = False
 turn = 0
 prev_turn = -1
 
