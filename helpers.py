@@ -7,4 +7,6 @@ def draw_board(spots):
 
 def check_turn(turn):
     if turn % 2 == 0:
-        reut
+        return '0'
+    else:
+        return 'X'
