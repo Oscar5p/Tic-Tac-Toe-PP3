@@ -30,3 +30,28 @@ while playing:
             # Valid input, update the board
             turn += 1
             spots[int(choice)] = check_turn(turn)
+
+if check_for_win(spots):
+    playing, complete = False, True
+if turn > 8:
+    playing = False
+
+# Out of the loop, print the results
+# Draw the board one last time.
+os.system('cls' if os.name == 'nt' else 'clear')
+draw_board(spots)
+# If there was a winner, say who won
+if complete:
+    if check_turn(turn) == 'X':
+        print("Player 1 Wins!")
+    else:
+        print("Player 2 Wins!")
+else:
+    # Tie Game
+    print("No Winner")
+
+    print("Thanks for playing!")
+
+
+# https://www.youtube.com/watch?v=Q6CCdCBVypg&ab_channel=CDcodes
+# This is the walkthrough for the tic tac toe game
