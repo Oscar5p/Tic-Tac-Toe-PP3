@@ -45,4 +45,15 @@ https://www.youtube.com/watch?v=Q6CCdCBVypg&ab_channel=CDcodes
 ### This is the winning message
 ![winning message](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/f0e1f77b-baf0-4597-b2f2-d0d07eae9803)
 
+## Screenshots of validation
+![jigsaw](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/6ab14ce8-7f10-40ef-82e1-f0f4ac87b8ef)
+Run.py
+![run py](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/da1fc58c-df4f-4c02-b20f-aac5e165a892)
+Helpers.py
+![helpers dot py](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/bacee461-78d1-4015-8374-86b10d8f2dbb)
+
+
+
+
+
 
