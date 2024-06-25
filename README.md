@@ -29,5 +29,8 @@ and it will show very clearly who won the game!
 ### Python
 There are two pages.
 Run.py and Helpers.py
+No html,java or css was used.
 
-
+# Acknowledgements
+Special thanks to
+https://www.youtube.com/watch?v=Q6CCdCBVypg&ab_channel=CDcodes
