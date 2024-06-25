@@ -9,6 +9,9 @@ complete = False
 turn = 0
 prev_turn = -1
 
+# Color of green text when there is a winner
+GREEN = '\033[92m'
+RESET = '\033[0m'
 
 # Intro message
 print("Hi and welcome to my Tic-Tac-Toe game!")
@@ -51,9 +54,9 @@ draw_board(spots)
 # If there was a winner, say who won
 if complete:
     if check_turn(turn) == 'X':
-        print("Player 1 Wins!")
+        print(GREEN + "Player 1 Wins!" + RESET)
     else:
-        print("Player 2 Wins!")
+        print(GREEN + "Player 2 Wins!" + RESET)
 else:
     # Tie Game
     print("No Winner")
