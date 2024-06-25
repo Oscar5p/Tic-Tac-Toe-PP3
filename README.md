@@ -53,7 +53,7 @@ Helpers.py
 ![python validator helpers py](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/7034ae23-65cf-4433-9e14-729be212fed2)
 
 ## Testing
-Everything seems to work fine execpt from the rating system.
+Everything seems to work fine except from the rating system.
 
 ## Bugs
 I haven't found any that i know of
