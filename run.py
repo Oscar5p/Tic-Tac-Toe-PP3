@@ -64,7 +64,7 @@ else:
     # Tie Game
     print("No Winner")
 
- # The user can rate my game afterwards
+# The user can rate my game afterwards
     rating = input(
         "You can rate my game from 1 to 5 (1 being worst and 5 being best, Thank you for playing!): ")
     if rating.isdigit() and 1 <= int(rating) <= 5:
@@ -77,4 +77,7 @@ print("Thanks for playing!")
 # https://www.youtube.com/watch?v=Q6CCdCBVypg&ab_channel=CDcodes
 # This is the walkthrough for the tic tac toe game
 
-# My own code is the color when you win, the emoji and the intro message when you start the game
+# My own code is the color when you win
+# My own code is the smiling emoji
+# My own code is the rating system
+# My own code is the intro message
