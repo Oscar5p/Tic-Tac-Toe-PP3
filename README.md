@@ -61,6 +61,9 @@ Best regards
 Oscar Kron
 Student 5_p
 
+# Contact
+### Email: lakro001@live.se
+### Student Name: Oscar_5p
 
 
 
