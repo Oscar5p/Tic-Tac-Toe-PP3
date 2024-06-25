@@ -65,6 +65,12 @@ Student 5_p
 ### Email: lakro001@live.se
 ### Student Name: Oscar_5p
 
+## Errors
+I haven't really faced any errors that i know except that my rating system does not seem to work.
+But i wont have time to finish or fix it now due to submit date of the project.
+
+
+
 
 
 
