@@ -52,7 +52,10 @@ Run.py
 Helpers.py
 ![helpers dot py](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/bacee461-78d1-4015-8374-86b10d8f2dbb)
 
-
+# Deployment/Heroku
+### Since i didn't get my student pack i couldn't deploy on heroku so that will be a problem for me
+### I'm very happy with this course and support but i feel like i didn't get enough help with this issue.
+### Other then that i feel like it went pretty good with the project and so on. i have been in contact with student care but haven't heard anything yet.
 
 
 
