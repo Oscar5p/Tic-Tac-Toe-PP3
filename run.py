@@ -13,6 +13,9 @@ prev_turn = -1
 GREEN = '\033[92m'
 RESET = '\033[0m'
 
+# Smiling emoji
+SMILING_EMOJI = '😊'
+
 # Intro message
 print("Hi and welcome to my Tic-Tac-Toe game!")
 print("The rules are simple: get 3 in a row either horizontally,vertically, or diagonally.")
@@ -54,9 +57,9 @@ draw_board(spots)
 # If there was a winner, say who won
 if complete:
     if check_turn(turn) == 'X':
-        print(GREEN + "Player 1 Wins!" + RESET)
+        print(GREEN + "Player 1 Wins!" + SMILING_EMOJI + RESET)
     else:
-        print(GREEN + "Player 2 Wins!" + RESET)
+        print(GREEN + "Player 2 Wins!" + SMILING_EMOJI + RESET)
 else:
     # Tie Game
     print("No Winner")
