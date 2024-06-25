@@ -9,6 +9,7 @@ You can win diagonal, horizontal and vertical!
 ### In order to play you type "Python3 run.py" in the console.
 There will be an introduction before the game starts so you know how it works!
 The rules are simple. Follow the screen intro to play the game
+Press "Q"/"q" if you want to quit
 
 ### Game rules
 It's played on a 3x3 grid/board
@@ -29,8 +30,19 @@ and it will show very clearly who won the game!
 ### Python
 There are two pages.
 Run.py and Helpers.py
-No html,java or css was used.
+No HTML,JAVA or CSS was used.
 
 # Acknowledgements
 Special thanks to
 https://www.youtube.com/watch?v=Q6CCdCBVypg&ab_channel=CDcodes
+
+
+## Tic Tac Toe Screenshots
+### This is the intro message when starting the game
+![intro message](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/282c2b7a-0bff-4d00-ac3e-17ded5263e7f)
+### This is the game board
+![game board](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/a6d8bbf5-1c7e-4bbc-8565-5a36134acaff)
+### This is the winning message
+![winning message](https://github.com/Oscar5p/Tic-Tac-Toe-PP3/assets/166016267/f0e1f77b-baf0-4597-b2f2-d0d07eae9803)
+
+
