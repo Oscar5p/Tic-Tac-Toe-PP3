@@ -9,6 +9,14 @@ complete = False
 turn = 0
 prev_turn = -1
 
+
+# Intro message
+print("Hi and welcome to my Tic-Tac-Toe game!")
+print("The rules are simple: get 3 in a row either horizontally,vertically, or diagonally.")
+print("Best of luck!")
+input("Press Enter to start the game...")
+
+
 while playing:
     # Reset the screen
     os.system('cls' if os.name == 'nt' else 'clear')
