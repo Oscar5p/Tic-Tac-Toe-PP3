@@ -56,6 +56,7 @@ Helpers.py
 ### Since i didn't get my student pack i couldn't deploy on heroku so that will be a problem for me
 ### I'm very happy with this course and support but i feel like i didn't get enough help with this issue.
 ### Other then that i feel like it went pretty good with the project and so on. i have been in contact with student care but haven't heard anything yet.
+### https://github.com/Oscar5p/Tic-Tac-Toe-PP3.git This will be the only link that i can deploy here on Github since heroku is the issue.
 I will submit as noraml but i'm hoping to get some indulgence on this problem.
 Best regards 
 Oscar Kron
